@@ -62,6 +62,6 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=souravkeshri-14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats"/>
+  
   <img height="170" src="https://streak-stats.demolab.com?user=souravkeshri-14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
