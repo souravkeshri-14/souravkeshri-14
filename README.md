@@ -56,6 +56,18 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab,mysql" alt="Tools"/>
 </p>
 
+### 🛠️ Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jupyter,pycharm" alt="Jupyter Notebook and PyCharm"/>
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm,arduino,matlab" alt="Tools and Technologies"/>
+</p>
+
 ---
 
 # 🚀 Featured Projects
