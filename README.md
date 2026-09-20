@@ -65,19 +65,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=souravkeshri-14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=souravkeshri-14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/souravkeshri-14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sourav-kumar-keshri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center"><b>💡 Learn • Build • Solve • Repeat 🚀</b></p>
-<p align="center"><i>"Keep learning. Keep building. Keep improving."</i></p>
