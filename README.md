@@ -53,7 +53,8 @@
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm,arduino,matlab" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,arduino,matlab" alt="Tools & Platforms"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
 </p>
 
 ---
