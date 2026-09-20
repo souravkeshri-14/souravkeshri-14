@@ -69,7 +69,7 @@ A content-based movie recommendation system that recommends similar movies using
 
 🔗 **Live Demo:** https://movie-recommender-system-4t4wa7jnhhcaedeuz9e8ed.streamlit.app/
 
-🔗 **GitHub:** https://github.com/souravkeshri-14
+🔗 **GitHub:** [https://github.com/souravkeshri-14](https://github.com/souravkeshri-14/movie-recommender-system)
 
 ---
 
@@ -88,6 +88,8 @@ A web-based library management system featuring:
 - 📝 Issue & request history
 - ☁️ Cloud MySQL database integration
 
+🔗 **Live Demo:** [https://movie-recommender-system-4t4wa7jnhhcaedeuz9e8ed.streamlit.app/](https://library-management-system-kyzeblsisibbmvmbnrccuc.streamlit.app/)
+
 🔗 **GitHub:** https://github.com/souravkeshri-14/library-management-system
 
 ---
@@ -96,7 +98,9 @@ A web-based library management system featuring:
 
 A developer portfolio showcasing my projects, skills, experience, certifications and achievements.
 
-🔗 **GitHub:** https://github.com/souravkeshri-14
+🔗 **Live Demo:** [https://movie-recommender-system-4t4wa7jnhhcaedeuz9e8ed.streamlit.app/](https://sourav-keshri-portfolio-567318684573.asia-southeast1.run.app/)
+
+🔗 **GitHub:** [https://github.com/souravkeshri-14](https://github.com/souravkeshri-14/sourav-keshri-Portfolio)
 
 ---
 
